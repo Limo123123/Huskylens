@@ -1,6 +1,6 @@
 {
     "name": "Huskylens",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,8 +9,7 @@
     "files": [
         "README.md",
         "huskylens.ts",
-        "_locales/zh-cn/Huskylens-strings.json",
-        "_locales/zh-tw/Huskylens-strings.json",
+        "_locales/de/Huskylens-strings.json"
         "enums.d.ts"
     ],
     "testFiles": [
